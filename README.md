@@ -1,25 +1,7 @@
-### Languages
+### Hi 👋 I'm 维哲
 
-![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=Python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-SQL-000?style=flat-square&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?style=flat-square&logo=Swift)
-![C++](https://img.shields.io/badge/-C++-000?style=flat-square&logo=c%!b(MISSING)%!b(MISSING)&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=JavaScript)
+[![Hits Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRoniaWZ&count_bg=%2379C83D&title_bg=%23555555&icon=wiiu.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+![维哲's Stats](https://github-readme-stats.vercel.app/api/?username=RoniaWZ&layout=compact&theme=jolly&hide_border=true)
 
-### Technologies
-
-![Linux](https://img.shields.io/badge/-Linux-000?style=plastic&logo=Linux)
-![Docker](https://img.shields.io/badge/-Docker-000?style=plastic&logo=Docker)
-![Redis](https://img.shields.io/badge/-Redis-000?style=plastic&logo=Redis)
-![React](https://img.shields.io/badge/-React-000?style=plastic&logo=React)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=plastic&logo=TensorFlow)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=plastic&logo=node.js)
-![AWS](https://img.shields.io/badge/-AWS-000?style=plastic&logo=Amazon-AWS&logoColor=F90)
-
-
-
----
-
-I’ve enjoyed meeting you!
+![维哲's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RoniaWZ&langs_count=12&layout=compact&theme=jolly&hide_border=true)
