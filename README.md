@@ -1,16 +1,25 @@
-### Hi there 👋
+### Languages
 
-<!--
-**RoniaWZ/RoniaWZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=Python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?style=flat-square&logo=MySQL)
+![Swift](https://img.shields.io/badge/-Swift-000?style=flat-square&logo=Swift)
+![C++](https://img.shields.io/badge/-C++-000?style=flat-square&logo=c%!b(MISSING)%!b(MISSING)&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=JavaScript)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+![Linux](https://img.shields.io/badge/-Linux-000?style=plastic&logo=Linux)
+![Docker](https://img.shields.io/badge/-Docker-000?style=plastic&logo=Docker)
+![Redis](https://img.shields.io/badge/-Redis-000?style=plastic&logo=Redis)
+![React](https://img.shields.io/badge/-React-000?style=plastic&logo=React)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=plastic&logo=TensorFlow)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=plastic&logo=node.js)
+![AWS](https://img.shields.io/badge/-AWS-000?style=plastic&logo=Amazon-AWS&logoColor=F90)
+
+
+
+---
+
+I’ve enjoyed meeting you!
